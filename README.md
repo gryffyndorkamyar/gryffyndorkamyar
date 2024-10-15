@@ -1,6 +1,6 @@
 ## Who Am I...
 <center>
-<img  align = "center"  src = "https://github.com/user-attachments/assets/508dbf42-1592-42c2-b279-7bcbfc5704ad" height="330">
+<img  align="center"  src = "https://github.com/user-attachments/assets/508dbf42-1592-42c2-b279-7bcbfc5704ad" height="330">
 </center>
 
 <h2 align = "center"> Hi✌🏼 My Name is Kamyar 💫 </h2>
