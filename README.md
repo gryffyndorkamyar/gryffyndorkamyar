@@ -4,7 +4,7 @@
 <img align = "center"  src = "https://github.com/user-attachments/assets/508dbf42-1592-42c2-b279-7bcbfc5704ad" height="400" width="400">
 
 <h2 align = "left"> Hi✌🏼 My Name is Kamyar 💫 </h2>
-<p></p>
+<p align = "left"> Im a Juniour-Mid level BackendDeveloper Who Trynig To Be a Mid-Senior Developer As Soon As Soon. I Love Ai Coding Too & I Want to be a Ai Developer too, but on the future & after WebDevelopement  </p>
 
 <h2 align = "left"> My Skills & Tools That i Use </h2>
   
