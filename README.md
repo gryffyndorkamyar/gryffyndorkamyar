@@ -12,6 +12,6 @@
 
 <h2 align = "left"> The Skills Im Learning👨🏽‍💻 : </h2>
 <h3 align= "left">  🖥 DRF : 10%  </h3> <img src = "https://github.com/gryffyndorkamyar/gryffyndorkamyar/blob/main/bar.png?raw=true">
-<h3 align= "left">   🖥  MySQL : 10% </h3> <img src = "https://github.com/gryffyndorkamyar/gryffyndorkamyar/blob/main/bar.png?raw=true">
+<h3 align= "left">   🖥  MySQL : 10% </h3> <img src = "https://github.com/gryffyndorkamyar/gryffyndorkamyar/blob/main/bar.png?raw=true" height = "16px" width = "150px">
 
 </center>
