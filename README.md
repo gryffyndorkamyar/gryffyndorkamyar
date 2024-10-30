@@ -11,6 +11,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 <h2 align = "left"> The Skills Im Learning👨🏽‍💻 : </h2>
-<h3 align= "left">   🖥  PostgreSQL : 10% </h3> <img src = "https://github.com/gryffyndorkamyar/gryffyndorkamyar/blob/main/bar.png?raw=true" height = "16px" width = "120px">
+<h3 align= "left">   🖥  PostgreSQL : 15% </h3> <img src = "https://github.com/gryffyndorkamyar/gryffyndorkamyar/blob/main/bar.png?raw=true" height = "16px" width = "135px">
 
 </center>
