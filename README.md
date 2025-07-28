@@ -4,7 +4,7 @@
 <img align = "center"  src = "https://github.com/user-attachments/assets/508dbf42-1592-42c2-b279-7bcbfc5704ad" height="400" width="400">
 
 <h2 align = "left"> Hi✌🏼 My Name is Kamyar 💫 </h2>
-<p align = "left"> Im a Juniour-Mid level BackendDeveloper Who Trynig To Be a Mid-Senior Developer As Soon As Soon. I Love Ai Coding Too & I Want to be a Ai Developer too, but on the future & after WebDevelopement , I love to growth, growth & More growth in this Job  </p>
+<p align = "left"> I am a senior Django developer with strong expertise in most of Django’s infrastructure. I am deeply passionate about my work and constantly learning the latest global methodologies. These days, artificial intelligence is a major trend worldwide, and I’m actively learning about it as well.  </p>
 
 <h2 align = "left"> My Skills & Tools That i Use </h2>
   
