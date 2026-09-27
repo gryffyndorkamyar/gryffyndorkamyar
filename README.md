@@ -4,7 +4,7 @@
 <img align = "center"  src = "https://github.com/user-attachments/assets/508dbf42-1592-42c2-b279-7bcbfc5704ad" height="400" width="400">
 
 <h2 align = "left"> Hi✌🏼 My Name is Kamyar 💫 </h2>
-<p align = "left"> I am a senior full-stack developer across Django, FastAPI, Golang, and React. I have shipped several full-stack projects, I know most of Django’s infrastructure, and I am comfortable with DevOps and different infrastructure architectures. I am the founder of Neurollamas, an AI platform I have been building for more than 2 years and 7 months, and I work with strong AI tools like Cursor. I am deeply passionate about my work and I keep learning the latest methods. I am a senior blockchain analyst too. 😀 &#128512;</p>
+<p align = "left"> I am a senior full-stack developer across Django, FastAPI, Golang, and React. I have shipped several full-stack projects, I know most of Django’s infrastructure, and I am comfortable with DevOps and different infrastructure architectures. I am the founder of Neurollamas, an AI platform I have been building for more than 2 years and 7 months, and I work with strong AI tools like Cursor. I am deeply passionate about my work and I keep learning the latest methods. I am a senior blockchain analyst too.&#128512;</p>
 
 <h2 align = "left"> My Skills & Tools That i Use </h2>
   
