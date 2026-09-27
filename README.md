@@ -12,5 +12,8 @@
 
 <h2 align = "left"> The Skills Im Learning👨🏽‍💻 : </h2>
 <h3 align= "left">   🖥  MachineLearning : 5% </h3> <img src = "https://github.com/gryffyndorkamyar/gryffyndorkamyar/blob/main/bar.png?raw=true" height = "5px" width = "150px">
+<h3 align= "left">   🖥  Next.js : 10% </h3> <img src = "https://github.com/gryffyndorkamyar/gryffyndorkamyar/blob/main/bar.png?raw=true" height = "5px" width = "220px">
+<h3 align= "left">   🖥  LangChain : 15% </h3> <img src = "https://github.com/gryffyndorkamyar/gryffyndorkamyar/blob/main/bar.png?raw=true" height = "5px" width = "190px">
+<h3 align= "left">   🖥  LangGraph : 15% </h3> <img src = "https://github.com/gryffyndorkamyar/gryffyndorkamyar/blob/main/bar.png?raw=true" height = "5px" width = "170px">
 
 </center>
